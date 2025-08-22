@@ -1,6 +1,6 @@
 import './style.css'
 import { AppController } from './controllers/AppController'
-import { Router } from './utils/Router'
+import { Router } from './utils/Router.ts'
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', () => {
